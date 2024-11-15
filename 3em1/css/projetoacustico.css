@@ -1,0 +1,30 @@
+.youtube__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+ .youtube__item__pic {
+    width: 100%; 
+    height: 350px;
+    object-fit: contain; /* Garante que a imagem seja cortada proporcionalmente */
+}
+
+.section-title h2 {
+    font-size: 47px !important;
+}
+
+.fs-20 {
+    font-size: 20px !important;
+}
+
+img {
+    margin: 10px;
+}
+
+.about__pic {
+    width: 450px;
+    height: 450px;
+    margin-left: 50px;
+}

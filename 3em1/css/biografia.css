@@ -1,0 +1,47 @@
+.social-icons {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+.social-icon {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: #ffffff; /* Cor de fundo */
+    border-radius: 50%; /* Círculo */
+    text-align: center;
+    line-height: 50px; /* Centraliza verticalmente o ícone */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+    transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s; /* Transições suaves */
+    color: #333; /* Cor do ícone */
+    border: 2px solid transparent; /* Borda padrão */
+}
+.social-icon:hover {
+    background-color: #529ceb; /* Cor ao passar o mouse */
+    color: white; /* Cor do ícone ao passar o mouse */
+    transform: translateY(-3px); /* Efeito de levantamento */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Sombra mais intensa ao passar o mouse */
+    border: 2px solid #0056b3; /* Borda ao passar o mouse */
+}
+.section-title h2 {
+    font-size: 47px !important;
+}
+
+.fs-20 {
+    font-size: 20px !important;
+}
+
+img {
+    margin: 10px;
+}
+
+.about__pic__1 {
+    margin-top: -40px;
+}
+
+.about__pic {
+    width: 450px;
+    height: 450px;
+    margin-top: 101px;
+    margin-left: 50px;
+}

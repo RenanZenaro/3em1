@@ -1,0 +1,18 @@
+.section-title h2 {
+    font-size: 47px !important;
+}
+
+.fs-20 {
+    font-size: 20px !important;
+}
+
+img {
+    margin: 10px;
+}
+
+.about__pic {
+    width: 450px;
+    height: 450px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
