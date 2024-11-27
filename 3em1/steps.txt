@@ -2,30 +2,3 @@ git config --global user.name RenanZenaro
 git config --global user.email renanzenaro@hotmail.com
 
 pesquisar sobre criar componentes e usar em varias paginas (menu e roodape)
-
-
-descricao projeto acustico:
-<p>Nós, da banda 3 em 1, desenvolvemos um projeto acústico pensando na diversidade de necessidades dos bares locais. Reconhecemos que nem todos os estabelecimentos têm demanda para uma banda completa ou recursos financeiros para bancá-la. Por isso, adaptamos nosso repertório para oferecer uma experiência musical completa utilizando apenas voz, violão e cajón.<br><br>
-Compreendemos que, em muitas ocasiões, os proprietários de bares, restaurantes e lanchonetes procuram por um som mais suave e atmosférico, ideal para proporcionar um ambiente agradável para seus clientes desfrutarem do local. Assim, atendemos às solicitações de voz, violão e cajón, visando contribuir para uma atmosfera acolhedora e mais tranquila no estabelecimento.</p>
-
-
-história da banda:
-Em 2018, três adolescentes - Renan (bateria), Lucas (violão/guitarra) e Nicolly (vocal) - decidiram formar uma banda, mesmo ainda estando em fase de aprendizado musical.<br><br>
-No ano seguinte, em 2019, começaram a se apresentar em eventos locais, como aniversários, festas e bares como um trio.<br><br>
-Entretanto, em 2020, a pandemia interrompeu suas atividades temporariamente.<br><br>
-Em 2022, com a retomada das apresentações, a banda trouxe Leandro para assumir o papel de baixista.<br><br>
-Desde então estão na ativa e continuam tocando juntos.
-(adicionar curiosidade)
-
-
-Renan Zenaro:
-Renan Zenaro, 22 anos, é apaixonado por bateria, teve sua jornada musical influenciada pelo rock, especialmente por trilha sonora de jogos como Guitar Hero e Tony Hawk, que o motivaram a aprender a tocar um instrumento. Ele se dedicou à bateria e sua paixão pelo instrumento só cresceu desde então. Além de músico, é professor na escola HR-Harmonia da Música desde 2023. Paralelamente a música, está cursando Desenvolvimento de Sistemas. Também vale ressaltar que, além da bateria, Renan fez 1 ano de aula de violão e guitarra, ampliando ainda mais seu conhecimento musical.
-
-Leando Alves:
-Leandro de Lima, 20 anos, desenvolveu uma paixão pelo contra-baixo aos 15 anos, ao assistir um youtuber chamado Davie504, que o surpreendeu com os sons que o instrumento poderia produzir. Ele vem estudando contra-baixo há 5 anos e suas principais influências musicais incluem Mamonas Assassinas, Red Hot Chili Peppers, Metallica, Black Sabbath, Michael Jackson e Bruno Mars. Além de sua dedicação à música, Leandro está cursando Desenvolvimento de Sistemas.
-
-Nicolly Kannanda:
-Nicolly Kannanda, também conhecida profissionalmente como Kannanda, teve uma conexão natural com a música desde a infância. Aos 8 anos, apaixonou-se pela flauta doce nas aulas de artes da escola, onde começou a se apresentar em eventos escolares. 10 anos atrás, iniciou suas aulas de canto, uma jornada que continua até hoje. Aos 15 anos, o piano entrou em sua vida, tornando-se uma paixão constante. Atualmente, aos 20 anos, é formada em técnico em enfermagem e está cursando a faculdade de música. Além disso, ministra aulas de piano/teclado na escola de música HR-Harmonia da Música.
-
-Lucas Pagnota:
-Lucas Pagnota, 21 anos, é apaixonado por violão e guitarra. Ele é professor na escola de música HR-Harmonia da Música e está cursando Ciência da Computação. Sua paixão pela música começou na infância, influenciada pelo jogo eletrônico Guitar Hero. O convite para tocar na igreja durante o crisma 3 foi um momento marcante em sua jornada, fortalecendo seu desejo de viver da música. Desde então, sua dedicação e amor pela música só crescem.
