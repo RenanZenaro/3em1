@@ -7,8 +7,8 @@
 
  .youtube__item__pic {
     width: 100%; 
-    height: 550px;
-    object-fit: contain; /* Garante que a imagem seja cortada proporcionalmente */
+    height: 350px;
+    object-fit: contain;
 }
 
 .section-title h2 {
